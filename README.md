@@ -1,6 +1,6 @@
 # Go Modules Examples
 <img alt="Go version" src="https://img.shields.io/badge/go-1.17-blue">
-<img alt="Init branch" src="https://img.shields.io/badge/branch-mod%20init%20only-red">
+<img alt="Complete branch" src="https://img.shields.io/badge/branch-mod%20completed-green">
 
 This repository contains multiple examples of go modules scenarios:
 
