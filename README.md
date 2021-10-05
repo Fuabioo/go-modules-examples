@@ -4,16 +4,16 @@
 
 This repository contains multiple examples of go modules scenarios:
 
-- [Indirect dependencies](indirect/go.mod)
-- [Explicit incompatibility](explicitly-incompatible/go.mod)
-- [The dependency is not a module](no-mod/go.mod)
-- [Replacing a dependency version](replacing/go.mod)
-- [Semver with a 2+ major](suffix/go.mod)
-- [Private repositories](private/go.mod)
-- [Vendor dependencies](vendor/go.mod)
-- [Pre-releasing a tag](pre-release/go.mod)
-- [Fetching a specific branch](branch/go.mod)
-- [Fetching a specific commit](commit/go.mod)
+- [Indirect dependencies](indirect/)
+- [Explicit incompatibility](explicitly-incompatible/)
+- [The dependency is not a module](no-mod/)
+- [Replacing a dependency version](replacing/)
+- [Semver with a 2+ major](suffix/)
+- [Private repositories](private/)
+- [Vendor dependencies](vendor/)
+- [Pre-releasing a tag](pre-release/)
+- [Fetching a specific branch](branch/)
+- [Fetching a specific commit](commit/)
 
 ## Useful information
 
