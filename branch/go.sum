@@ -1,0 +1,4 @@
+github.com/Fuabioo/example-pkg v1.0.1-alpha.0.20211005011241-5e7563dba59b h1:8kBLEJyhEVuNUCIiqJlo3yDCiqZC5ZlQkEJMWaVICFs=
+github.com/Fuabioo/example-pkg v1.0.1-alpha.0.20211005011241-5e7563dba59b/go.mod h1:Yq5FAUFH6Q/OWMHEUHL3JRfc2gnu3/GJmt+u4WLbk8Q=
+github.com/iancoleman/strcase v0.2.0 h1:05I4QRnGpI0m37iZQRuskXh+w77mr6Z41lwQzuHLwW0=
+github.com/iancoleman/strcase v0.2.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
